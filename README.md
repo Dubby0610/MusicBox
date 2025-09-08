@@ -18,10 +18,10 @@ A cross-platform music player that integrates multiple music services (currently
 - Easy UI customization with QSS (similar to CSS).  
 
 ## Screenshots
-<img src="https://github.com/Dubby0610/MusicBox/blob/master/testpic/24.jpg"/>  
-<img src="https://github.com/Dubby0610/MusicBox/blob/master/testpic/16.jpg"/>  
-<img src="https://github.com/Dubby0610/MusicBox/blob/master/testpic/19.jpg"/>  
-<img src="https://github.com/Dubby0610/MusicBox/blob/master/testpic/23.jpg"/>  
+<img src="https://github.com/Dubby0610/MusicBox/blob/main/testpic/24.jpg"/>  
+<img src="https://github.com/Dubby0610/MusicBox/blob/main/testpic/16.jpg"/>  
+<img src="https://github.com/Dubby0610/MusicBox/blob/main/testpic/19.jpg"/>  
+<img src="https://github.com/Dubby0610/MusicBox/blob/main/testpic/23.jpg"/>  
 
 ## Installation
 From PyPI:
